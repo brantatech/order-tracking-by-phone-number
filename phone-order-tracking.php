@@ -14,7 +14,7 @@
  *
  * You should have received a copy of the GNU General Public License
  * along with this program. If not, see <https://www.gnu.org/licenses/>.
- 
+ **Tested up to:** 6.7
 
 
 
@@ -27,7 +27,7 @@
  * License: GPL v2 or later
  * License URI: https://www.gnu.org/licenses/gpl-2.0.html
  * Text Domain: order-tracking-by-phone-number
- * Domain Path: /languages
+ 
  */
 
 // Exit if accessed directly
