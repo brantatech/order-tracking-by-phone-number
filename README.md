@@ -6,6 +6,7 @@
 **Tested up to:** 6.4  
 **Stable tag:** 1.0.0  
 **Requires PHP:** 7.4  
+
 **License:** GPL v2 or later  
 **License URI:** https://www.gnu.org/licenses/gpl-2.0.html  
 
@@ -94,6 +95,8 @@
   - Shortcode for easy form integration.
 
 ---
+
+![Order Tracking By Phone Number](https://github.com/user-attachments/assets/7768b46b-01b7-4570-80f9-539b4c50edaa)
 
 ## License
 
